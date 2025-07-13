@@ -6,7 +6,7 @@ Identify and match players between two videos — broadcast and tacticam — ens
 
 ## Methodology
 
-- YOLOv8 used to detect players.
+- Use the YOLOv11-based model to detect players in both videos.
 - Extracted HSV color histograms as feature vectors.
 - Used cosine similarity for player matching.
 
