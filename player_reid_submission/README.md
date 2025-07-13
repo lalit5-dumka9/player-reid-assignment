@@ -5,8 +5,8 @@ This project solves the task of identifying the same player across two different
 ## Project Structure
 
 ```
-├── main.py
-├── utils.py
+├── main.ipynb
+├── utils.ipynb
 ├── data/
 │   ├── broadcast.mp4
 │   └── tacticam.mp4
@@ -27,7 +27,7 @@ pip install ultralytics opencv-python numpy scikit-learn
 ## Run the Code
 
 ```bash
-python main.py
+python main.ipynb
 ```
 
 ## Requirements
